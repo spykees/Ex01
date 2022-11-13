@@ -2,3 +2,7 @@
 # Les Tuples sont toujours en ( )
 
 coordinate = (4, 8, 12)
+
+# listes of Tuples
+
+coordinates = [(8, 0), (12, 4), (43, 42)]
